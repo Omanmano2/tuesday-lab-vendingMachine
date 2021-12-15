@@ -2,7 +2,7 @@ import { ProxyState } from "../AppState.js"
 import { moneyService } from "../Services/MoneyService.js"
 
 
-
+function 
 
 export class MoneyController {
   constructor(){
